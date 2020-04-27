@@ -1,0 +1,14 @@
+#EXTM3U
+#PLAYLISTV: pltv-logo="XXX LINK LOGO XXX" pltv-name="XXX NOME DA LISTA XXX" pltv-description="SERIADOS" pltv-cover="XXX CAPA DA LISTA XXX" pltv-author="XXX AUTOR DA LISTA XXX" pltv-site="XXX SITE CASO HOUVER XXX" pltv-email="XXX E-MAIL XXX"
+
+
+################## SERIADOS ########################
+
+#EXTINF:-1 tvg-logo="https://pandafiles.com/gwyru74b4y7j/Doom_Patrol.png" group-title="SERIADOS" pltv-subgroup="PATRULHA DO DESTINO", 1 TEMPORADA, EPISODIO 01
+https://www.googleapis.com/drive/v3/files/1ncclM_PXlhT1bKMPAKrM7PN97p-_BZht?alt=media&key=AIzaSyDUQNEoHcIkztyMuRkOrchHtzFZbZ0KkNw
+#EXTINF:-1 tvg-logo="https://pandafiles.com/gwyru74b4y7j/Doom_Patrol.png" group-title="SERIADOS" pltv-subgroup="PATRULHA DO DESTINO", 1 TEMPORADA, EPISODIO 02
+https://www.googleapis.com/drive/v3/files/1bxdFvTW6oqZvIXlWEQLmoaR_g09ro7lK?alt=media&key=AIzaSyDUQNEoHcIkztyMuRkOrchHtzFZbZ0KkNw
+
+
+
+
